@@ -1,9 +1,0 @@
-# Fichier exemple de base de données produits pour ex8_1
-pain 1.20
-lait 0.95
-beurre 2.50
-fromage 3.80
-pomme 0.50
-eau 0.30
-cafe 5.60
-riz 1.80
